@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="NeedIt" language="en" table="x_591439_app_abc_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>NeedIt</label>
+            <language>en</language>
+            <name>x_591439_app_abc_needit</name>
+            <plural>NeedIts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 06:33:00</sys_created_on>
+            <sys_id>5ccdb3a12ff2241082c411c82799b612</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NeedIt</sys_name>
+            <sys_package display_value="App abc" source="x_591439_app_abc">7cdb33212ff2241082c411c82799b615</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App abc">7cdb33212ff2241082c411c82799b615</sys_scope>
+            <sys_update_name>sys_documentation_x_591439_app_abc_needit__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 06:33:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
